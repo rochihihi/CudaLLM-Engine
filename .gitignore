@@ -1,0 +1,18 @@
+# Local build outputs and runtime environments
+/build/
+/build-*/
+/lib/
+/.runtime/
+/.venv/
+
+# Downloaded model weights and tokenizers
+/models/
+
+# Local editor and tool state
+/.vscode/
+/F:*/
+__pycache__/
+*.pyc
+
+# CMake-generated files
+/compile_commands.json

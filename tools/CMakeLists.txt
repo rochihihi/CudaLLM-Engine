@@ -1,0 +1,1 @@
+add_executable(quantize_legacy_model quantize_legacy_model.cpp)
